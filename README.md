@@ -10,4 +10,4 @@ This can be achieved by drawing a heat map of the features to observe. This can 
 ## Filter Visualization
 Filter visualization is done to realize what exactly are the filters learning in a CNN, so that the outputs can be better understood. Since the filters are performing a convolution operation, it is similar to the dot product of two vectors (if we think about them in the form of 1D vedctors). Since the dot product is proportional to the cosine of the angle between the the vectors, this means that to maximize the cosine the filters much align themselves to to be as close to the image as possible. This means that the filters are learning features of an image which are exactly like them as shown in the code.
 
-<img src="https://www.oreilly.com/library/view/deep-learning/9781491924570/assets/dpln_0416.png">
+<img src="https://www.oreilly.com/library/view/deep-learning/9781491924570/assets/dpln_0416.png" align="center" >         ---------> An example of filter visualization
